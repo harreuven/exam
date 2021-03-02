@@ -1,4 +1,11 @@
+p {
+	font-family: sans-serif;
+
+}
 img {
 	max-height: 128px;
 	max-width: 128px;
+}
+#body {
+	background: #abcdef;
 }
